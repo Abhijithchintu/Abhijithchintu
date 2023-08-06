@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Abhijith</h1>
-<h3 align="center">Backend developer in quest of 200 OK</h3>
+Hi 👋, I'm Abhijith.
+Backend developer in quest of 200 OK
 
 - Lang / Framework
-    - NodeJS/
+    - NodeJS
     - ExpressJS
     - C / C++
 - Tech
